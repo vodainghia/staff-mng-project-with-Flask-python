@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Trần bích Quyền",
+	"Ma_so": "NV_38",
+	"CMND": "021926662",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0941840390",
+	"Dia_chi": "Phạm bùi U Quận 1-TP. HCM",
+	"Mail": "tbquyền@alphtkhcmcom",
+	"Ten_Dang_nhap": "NV_38",
+	"Mat_khau": "NV_38",
+	"Muc_luong": 11200000,
+	"Ngay_sinh": "1977-08-06T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

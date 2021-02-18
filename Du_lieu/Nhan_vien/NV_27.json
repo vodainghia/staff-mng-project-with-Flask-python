@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Đặng thị xuân Dung",
+	"Ma_so": "NV_27",
+	"CMND": "035888989",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0900399019",
+	"Dia_chi": "Liên tiến Q Quận 2-TP. HCM",
+	"Mail": "đtxdung@mrnhcmvn",
+	"Ten_Dang_nhap": "NV_27",
+	"Mat_khau": "NV_27",
+	"Muc_luong": 7350000,
+	"Ngay_sinh": "1982-02-22T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

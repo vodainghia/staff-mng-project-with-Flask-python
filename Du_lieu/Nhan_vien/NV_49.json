@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Hứa hữu cẩm Thúy",
+	"Ma_so": "NV_49",
+	"CMND": "071656352",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0998019216",
+	"Dia_chi": "Ôn thành P Quận 2-Vĩnh Long",
+	"Mail": "hhcthúy@hncom",
+	"Ten_Dang_nhap": "NV_49",
+	"Mat_khau": "NV_49",
+	"Muc_luong": 7350000,
+	"Ngay_sinh": "1973-11-03T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Đặng xuân Mai",
+	"Ma_so": "NV_23",
+	"CMND": "082974553",
+	"Gioi_tinh": "Khác",
+	"Dien_thoai": "0928487897",
+	"Dia_chi": "Hứa cao T Quận 12-TP. HCM",
+	"Mail": "đxmai@mrnhcmcom",
+	"Ten_Dang_nhap": "NV_23",
+	"Mat_khau": "NV_23",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1974-05-01T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

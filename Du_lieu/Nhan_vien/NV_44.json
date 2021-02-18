@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Phùng hà Hạ",
+	"Ma_so": "NV_44",
+	"CMND": "001530594",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0976032055",
+	"Dia_chi": "Lý xuân E Quận 14-TP. HCM",
+	"Mail": "phhạ@sptgmailvn",
+	"Ten_Dang_nhap": "NV_44",
+	"Mat_khau": "NV_44",
+	"Muc_luong": 11550000,
+	"Ngay_sinh": "1976-03-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Hứa thế Bắc",
+	"Ma_so": "NV_54",
+	"CMND": "041721099",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0973359959",
+	"Dia_chi": "Nguyễn duy K Quận 2-TP. HCM",
+	"Mail": "htbắc@mdagmailcom",
+	"Ten_Dang_nhap": "NV_54",
+	"Mat_khau": "NV_54",
+	"Muc_luong": 3850000,
+	"Ngay_sinh": "1978-10-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

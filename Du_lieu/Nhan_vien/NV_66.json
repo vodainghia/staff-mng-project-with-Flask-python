@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Trần lâm tuyết Mai",
+	"Ma_so": "NV_66",
+	"CMND": "063726896",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0953560570",
+	"Dia_chi": "Kiều văn D Quận 4-TP. HCM",
+	"Mail": "tltmai@euhhcmvn",
+	"Ten_Dang_nhap": "NV_66",
+	"Mat_khau": "NV_66",
+	"Muc_luong": 9450000,
+	"Ngay_sinh": "1982-06-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

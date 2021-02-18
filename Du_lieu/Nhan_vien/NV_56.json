@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Hồ đình ngọc Liên",
+	"Ma_so": "NV_56",
+	"CMND": "080022516",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0998552112",
+	"Dia_chi": "Nguyễn thanh V Quận 13-Đà nẳng",
+	"Mail": "hđnliên@alphtkhcmvn",
+	"Ten_Dang_nhap": "NV_56",
+	"Mat_khau": "NV_56",
+	"Muc_luong": 3850000,
+	"Ngay_sinh": "1988-10-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

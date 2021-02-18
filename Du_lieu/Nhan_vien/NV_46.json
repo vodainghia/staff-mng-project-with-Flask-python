@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Thái văn Đại",
+	"Ma_so": "NV_46",
+	"CMND": "088216444",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0913520127",
+	"Dia_chi": "Đinh đình W Quận 14-TP. HCM",
+	"Mail": "tvđại@gmailcom",
+	"Ten_Dang_nhap": "NV_46",
+	"Mat_khau": "NV_46",
+	"Muc_luong": 14000000,
+	"Ngay_sinh": "1990-03-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

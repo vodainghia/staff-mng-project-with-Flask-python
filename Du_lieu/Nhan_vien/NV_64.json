@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Trương văn Hoa",
+	"Ma_so": "NV_64",
+	"CMND": "030831831",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0908620682",
+	"Dia_chi": "Hồ quyết R Quận 11-TP. HCM",
+	"Mail": "tvhoa@cscgmailvn",
+	"Ten_Dang_nhap": "NV_64",
+	"Mat_khau": "NV_64",
+	"Muc_luong": 12950000,
+	"Ngay_sinh": "1993-02-12T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

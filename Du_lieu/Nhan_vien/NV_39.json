@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lê phước Lý",
+	"Ma_so": "NV_39",
+	"CMND": "081737206",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0974155947",
+	"Dia_chi": "Đinh thành D Quận 8-TP. HCM",
+	"Mail": "lplý@alphtkcom",
+	"Ten_Dang_nhap": "NV_39",
+	"Mat_khau": "NV_39",
+	"Muc_luong": 12600000,
+	"Ngay_sinh": "1988-05-16T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

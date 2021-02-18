@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Bạch văn Tạo",
+	"Ma_so": "NV_42",
+	"CMND": "033255509",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0914804584",
+	"Dia_chi": "Bùi thị E Quận 4-Tiền giang",
+	"Mail": "bvtạo@mrnhcmcom",
+	"Ten_Dang_nhap": "NV_42",
+	"Mat_khau": "NV_42",
+	"Muc_luong": 4900000,
+	"Ngay_sinh": "1993-07-23T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

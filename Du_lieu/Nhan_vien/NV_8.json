@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Bành phước Tươi",
+	"Ma_so": "NV_8",
+	"CMND": "071910094",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0925129565",
+	"Dia_chi": "Huỳnh hồng Q Quận 5-TP. HCM",
+	"Mail": "bptươi@yahoocom",
+	"Ten_Dang_nhap": "NV_8",
+	"Mat_khau": "NV_8",
+	"Muc_luong": 13300000,
+	"Ngay_sinh": "1982-01-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

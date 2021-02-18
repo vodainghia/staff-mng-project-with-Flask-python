@@ -1,0 +1,31 @@
+{
+    "Ho_ten": "Nguy\u1ec5n nh\u01b0 Anh",
+    "Ma_so": "NV_12",
+    "CMND": "023113369",
+    "Gioi_tinh": "Nam",
+    "Dien_thoai": "0995770608",
+    "Dia_chi": "Qu\u00e1ch thanh G Qu\u1eadn 12-TP. HCM",
+    "Mail": "nnanh@mdavn",
+    "Ten_Dang_nhap": "NV_12",
+    "Mat_khau": "NV_12",
+    "Muc_luong": 8050000,
+    "Ngay_sinh": "1986-04-05T17:00:00Z",
+    "Don_vi": {
+        "Ten": "D\u1ecbch thu\u1eadt",
+        "Ma_so": "DV_1",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh A",
+            "Ma_so": "CN_1"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ten": "Anh",
+            "Ma_so": "ANH"
+        },
+        {
+            "Ma_so": "NGA",
+            "Ten": "Nga"
+        }
+    ]
+}

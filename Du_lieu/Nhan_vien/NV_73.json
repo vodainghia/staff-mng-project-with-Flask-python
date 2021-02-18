@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Đồng thanh Lý",
+	"Ma_so": "NV_73",
+	"CMND": "007779826",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0915639419",
+	"Dia_chi": "Châu đình X Quận 5-Đà nẳng",
+	"Mail": "đtlý@alphtkyahoovn",
+	"Ten_Dang_nhap": "NV_73",
+	"Mat_khau": "NV_73",
+	"Muc_luong": 11550000,
+	"Ngay_sinh": "1988-08-26T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

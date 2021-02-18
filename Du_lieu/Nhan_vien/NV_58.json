@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Nguyễn văn sơn Tài",
+	"Ma_so": "NV_58",
+	"CMND": "091887907",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0984542230",
+	"Dia_chi": "Nguyễn bùi G Quận 4-TP. HCM",
+	"Mail": "nvstài@mdahcmvn",
+	"Ten_Dang_nhap": "NV_58",
+	"Mat_khau": "NV_58",
+	"Muc_luong": 8400000,
+	"Ngay_sinh": "1988-04-25T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Huỳnh bích quang Mỹ",
+	"Ma_so": "NV_60",
+	"CMND": "077811645",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0995713246",
+	"Dia_chi": "Trần ngọc P Quận 8-Tiền giang",
+	"Mail": "hbqmỹ@mrngmailvn",
+	"Ten_Dang_nhap": "NV_60",
+	"Mat_khau": "NV_60",
+	"Muc_luong": 9800000,
+	"Ngay_sinh": "1984-10-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Lâm văn Thu",
+	"Ma_so": "NV_70",
+	"CMND": "039001279",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0965336047",
+	"Dia_chi": "Trang kim H Quận 5-TP. HCM",
+	"Mail": "lvthu@mrncom",
+	"Ten_Dang_nhap": "NV_70",
+	"Mat_khau": "NV_70",
+	"Muc_luong": 9450000,
+	"Ngay_sinh": "1979-08-27T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

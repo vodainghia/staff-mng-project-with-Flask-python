@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Triệu kiến Kiếm",
+	"Ma_so": "NV_68",
+	"CMND": "054033687",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0991258100",
+	"Dia_chi": "Triệu sơn I Quận 3-Đà nẳng",
+	"Mail": "tkkiếm@cschcmcom",
+	"Ten_Dang_nhap": "NV_68",
+	"Mat_khau": "NV_68",
+	"Muc_luong": 8750000,
+	"Ngay_sinh": "1983-10-21T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

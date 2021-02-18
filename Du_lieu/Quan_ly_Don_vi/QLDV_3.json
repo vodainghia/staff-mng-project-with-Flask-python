@@ -1,0 +1,14 @@
+{
+	"Ho_ten": "Lê văn Bình",
+	"Ma_so": "QLDV_3",
+	"Ten_Dang_nhap": "QLDV_3",
+  "Mat_khau": "QLDV_3",
+  "Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	}
+}

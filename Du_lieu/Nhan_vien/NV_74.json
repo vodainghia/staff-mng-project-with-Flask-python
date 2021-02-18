@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phi nam đan Tân",
+	"Ma_so": "NV_74",
+	"CMND": "095926482",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0951051663",
+	"Dia_chi": "Cao nam C Quận 10-Hà nội",
+	"Mail": "pnđtân@mdayahoovn",
+	"Ten_Dang_nhap": "NV_74",
+	"Mat_khau": "NV_74",
+	"Muc_luong": 8400000,
+	"Ngay_sinh": "1980-03-11T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

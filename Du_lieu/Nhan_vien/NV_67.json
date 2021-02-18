@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Lâm thiện quang Mỹ",
+	"Ma_so": "NV_67",
+	"CMND": "026410795",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0973422809",
+	"Dia_chi": "Nguyễn quyết G Quận 10-TP. HCM",
+	"Mail": "ltqmỹ@com",
+	"Ten_Dang_nhap": "NV_67",
+	"Mat_khau": "NV_67",
+	"Muc_luong": 12950000,
+	"Ngay_sinh": "1971-01-03T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

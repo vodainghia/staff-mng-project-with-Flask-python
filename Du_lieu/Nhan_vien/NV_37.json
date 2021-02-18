@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Đinh bích hiền trúc",
+	"Ma_so": "NV_37",
+	"CMND": "070770289",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0944116615",
+	"Dia_chi": "Ngô đình O Quận 5-TP. HCM",
+	"Mail": "đbhtrúc@yahoovn",
+	"Ten_Dang_nhap": "NV_37",
+	"Mat_khau": "NV_37",
+	"Muc_luong": 4900000,
+	"Ngay_sinh": "1980-10-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

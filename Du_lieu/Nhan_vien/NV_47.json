@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Phi văn Khiêm",
+	"Ma_so": "NV_47",
+	"CMND": "074466972",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0985325822",
+	"Dia_chi": "Ngô quyết B Quận 4-TP. HCM",
+	"Mail": "pvkhiêm@cschnvn",
+	"Ten_Dang_nhap": "NV_47",
+	"Mat_khau": "NV_47",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1985-04-08T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

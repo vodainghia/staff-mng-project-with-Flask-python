@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lâm văn Kiếm",
+	"Ma_so": "NV_4",
+	"CMND": "091692704",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0989624013",
+	"Dia_chi": "Lâm sơn N Quận 7-Đà nẳng",
+	"Mail": "lvkiếm@mrnhcmcom",
+	"Ten_Dang_nhap": "NV_4",
+	"Mat_khau": "NV_4",
+	"Muc_luong": 10500000,
+	"Ngay_sinh": "1990-04-09T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

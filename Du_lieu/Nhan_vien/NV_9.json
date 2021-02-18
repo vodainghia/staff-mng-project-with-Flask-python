@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Trường thị Khoa",
+	"Ma_so": "NV_9",
+	"CMND": "075955273",
+	"Gioi_tinh": "Khác",
+	"Dien_thoai": "0972802538",
+	"Dia_chi": "Mai văn K Quận 3-TP. HCM",
+	"Mail": "ttkhoa@mrnyahoovn",
+	"Ten_Dang_nhap": "NV_9",
+	"Mat_khau": "NV_9",
+	"Muc_luong": 12950000,
+	"Ngay_sinh": "1987-10-24T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

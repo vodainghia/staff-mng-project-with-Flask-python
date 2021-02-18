@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Chu duy bạch Mai",
+	"Ma_so": "NV_34",
+	"CMND": "062964478",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0975043415",
+	"Dia_chi": "Dương thanh X Quận 14-TP. HCM",
+	"Mail": "cdbmai@mdahcmvn",
+	"Ten_Dang_nhap": "NV_34",
+	"Mat_khau": "NV_34",
+	"Muc_luong": 10500000,
+	"Ngay_sinh": "1983-03-22T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

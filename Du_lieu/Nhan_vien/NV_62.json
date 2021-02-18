@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phạm nam bảo Châu",
+	"Ma_so": "NV_62",
+	"CMND": "011825564",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0929011928",
+	"Dia_chi": "Hà xuân B Quận 5-TP. HCM",
+	"Mail": "pnbchâu@sptcom",
+	"Ten_Dang_nhap": "NV_62",
+	"Mat_khau": "NV_62",
+	"Muc_luong": 11900000,
+	"Ngay_sinh": "1981-03-17T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

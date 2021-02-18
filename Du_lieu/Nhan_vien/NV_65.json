@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Trang văn Thanh",
+	"Ma_so": "NV_65",
+	"CMND": "045406910",
+	"Gioi_tinh": "Khác",
+	"Dien_thoai": "0916808654",
+	"Dia_chi": "Nguyễn thanh U Quận 2-TP. HCM",
+	"Mail": "tvthanh@mrnyahoocom",
+	"Ten_Dang_nhap": "NV_65",
+	"Mat_khau": "NV_65",
+	"Muc_luong": 9800000,
+	"Ngay_sinh": "1987-06-29T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

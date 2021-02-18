@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phí sơn khánh Ngọc",
+	"Ma_so": "NV_21",
+	"CMND": "030294319",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0969607163",
+	"Dia_chi": "Trần quyết O Quận 10-TP. HCM",
+	"Mail": "pskngọc@sptcom",
+	"Ten_Dang_nhap": "NV_21",
+	"Mat_khau": "NV_21",
+	"Muc_luong": 8050000,
+	"Ngay_sinh": "1973-04-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

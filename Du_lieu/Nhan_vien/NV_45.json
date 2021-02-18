@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyễn chiến Tạo",
+	"Ma_so": "NV_45",
+	"CMND": "043317317",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0974992742",
+	"Dia_chi": "Cao tiến A Quận 13-TP. HCM",
+	"Mail": "nctạo@sptgmailvn",
+	"Ten_Dang_nhap": "NV_45",
+	"Mat_khau": "NV_45",
+	"Muc_luong": 8050000,
+	"Ngay_sinh": "1971-11-20T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

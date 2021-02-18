@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyên viết Hoàng",
+	"Ma_so": "NV_72",
+	"CMND": "090534019",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0903803437",
+	"Dia_chi": "Công lý C Quận 1-Cần Thơ",
+	"Mail": "nvhoàng@mdagmailcom",
+	"Ten_Dang_nhap": "NV_72",
+	"Mat_khau": "NV_72",
+	"Muc_luong": 10850000,
+	"Ngay_sinh": "1988-05-16T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

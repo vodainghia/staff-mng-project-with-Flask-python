@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Lý bích Táo",
+	"Ma_so": "NV_25",
+	"CMND": "050556835",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0990009135",
+	"Dia_chi": "Phí gia A Quận 3-TP. HCM",
+	"Mail": "lbtáo@mdahcmcom",
+	"Ten_Dang_nhap": "NV_25",
+	"Mat_khau": "NV_25",
+	"Muc_luong": 4900000,
+	"Ngay_sinh": "1986-04-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

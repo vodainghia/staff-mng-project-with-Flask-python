@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Trần thành hảo Khiêm",
+	"Ma_so": "NV_26",
+	"CMND": "044970080",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0949132309",
+	"Dia_chi": "Công minh I Quận 14-TP. HCM",
+	"Mail": "tthkhiêm@sptcom",
+	"Ten_Dang_nhap": "NV_26",
+	"Mat_khau": "NV_26",
+	"Muc_luong": 10500000,
+	"Ngay_sinh": "1980-03-23T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+    "Ho_ten": "Tr\u01b0\u01a1ng ti\u1ebfn Qu\u00e2n",
+    "Ma_so": "NV_19",
+    "CMND": "063459805",
+    "Gioi_tinh": "Nam",
+    "Dien_thoai": "0966928333",
+    "Dia_chi": "Tr\u01b0\u01a1ng tri\u1ec7u Phat Qu\u1eadn 1-TP. HCM",
+    "Mail": "ttqu\u00e2n@gmailcom",
+    "Ten_Dang_nhap": "NV_19",
+    "Mat_khau": "NV_19",
+    "Muc_luong": 4550000,
+    "Ngay_sinh": "1971-02-28T17:00:00Z",
+    "Don_vi": {
+        "Ten": "D\u1ecbch thu\u1eadt",
+        "Ma_so": "DV_1",
+        "Chi_nhanh": {
+            "Ten": "Chi nh\u00e1nh A",
+            "Ma_so": "CN_1"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "ANH",
+            "Ten": "Anh"
+        }
+    ]
+}

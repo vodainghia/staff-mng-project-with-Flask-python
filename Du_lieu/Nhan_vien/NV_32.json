@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Nguyễn tiến Thu",
+	"Ma_so": "NV_32",
+	"CMND": "027434175",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0997410470",
+	"Dia_chi": "Trần tiến H Quận 2-Đà nẳng",
+	"Mail": "ntthu@euhhcmcom",
+	"Ten_Dang_nhap": "NV_32",
+	"Mat_khau": "NV_32",
+	"Muc_luong": 11550000,
+	"Ngay_sinh": "1980-01-23T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

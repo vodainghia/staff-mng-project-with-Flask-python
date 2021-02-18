@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Lý phạm bình Minh",
+	"Ma_so": "NV_7",
+	"CMND": "024231909",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0920025701",
+	"Dia_chi": "Hoàng như S Quận 8-TP. HCM",
+	"Mail": "lpbminh@alphtkgmailcom",
+	"Ten_Dang_nhap": "NV_7",
+	"Mat_khau": "NV_7",
+	"Muc_luong": 7000000,
+	"Ngay_sinh": "1973-06-18T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Nguyễn gia Thục",
+	"Ma_so": "NV_55",
+	"CMND": "020878378",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0926248955",
+	"Dia_chi": "Phạm lâm J Quận 14-TP. HCM",
+	"Mail": "ngthục@mdacom",
+	"Ten_Dang_nhap": "NV_55",
+	"Mat_khau": "NV_55",
+	"Muc_luong": 7000000,
+	"Ngay_sinh": "1974-11-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

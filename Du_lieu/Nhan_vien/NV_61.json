@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Trầm thanh hảo Tâm",
+	"Ma_so": "NV_61",
+	"CMND": "017660121",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0981374052",
+	"Dia_chi": "Đặng tiến R Quận 6-TP. HCM",
+	"Mail": "tthtâm@spthcmcom",
+	"Ten_Dang_nhap": "NV_61",
+	"Mat_khau": "NV_61",
+	"Muc_luong": 5950000,
+	"Ngay_sinh": "1991-11-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

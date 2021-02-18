@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Dương minh Thăng",
+	"Ma_so": "NV_57",
+	"CMND": "090401988",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0923086266",
+	"Dia_chi": "Mai thế C Quận 10-TP. HCM",
+	"Mail": "dmthăng@alphtkhcmvn",
+	"Ten_Dang_nhap": "NV_57",
+	"Mat_khau": "NV_57",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1976-02-06T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

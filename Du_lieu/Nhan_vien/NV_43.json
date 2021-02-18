@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phạm phạm thúy Hạnh",
+	"Ma_so": "NV_43",
+	"CMND": "097610038",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0990207680",
+	"Dia_chi": "Hà đình N Quận 6-TP. HCM",
+	"Mail": "ppthạnh@euhgmailvn",
+	"Ten_Dang_nhap": "NV_43",
+	"Mat_khau": "NV_43",
+	"Muc_luong": 13300000,
+	"Ngay_sinh": "1985-05-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Lý phước Mai",
+	"Ma_so": "NV_14",
+	"CMND": "030581362",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0952055942",
+	"Dia_chi": "Mai hữu M Quận 14-TP. HCM",
+	"Mail": "lpmai@cscvn",
+	"Ten_Dang_nhap": "NV_14",
+	"Mat_khau": "NV_14",
+	"Muc_luong": 10500000,
+	"Ngay_sinh": "1982-07-21T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

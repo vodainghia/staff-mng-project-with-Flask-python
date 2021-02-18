@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Lâm kim Khóa",
+	"Ma_so": "NV_50",
+	"CMND": "047065099",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0991297742",
+	"Dia_chi": "Hoàng phước Y Quận 14-TP. HCM",
+	"Mail": "lkkhóa@mrnvn",
+	"Ten_Dang_nhap": "NV_50",
+	"Mat_khau": "NV_50",
+	"Muc_luong": 10850000,
+	"Ngay_sinh": "1986-07-27T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

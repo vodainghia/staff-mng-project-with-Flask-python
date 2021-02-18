@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Ngô tắc Thu",
+	"Ma_so": "NV_24",
+	"CMND": "003273954",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0947007585",
+	"Dia_chi": "Tô thành N Quận 7-TP. HCM",
+	"Mail": "ntthu@hcmvn",
+	"Ten_Dang_nhap": "NV_24",
+	"Mat_khau": "NV_24",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1985-09-01T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

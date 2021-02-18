@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Lý nam Khuê",
+	"Ma_so": "NV_41",
+	"CMND": "006686661",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0926768604",
+	"Dia_chi": "Thái kim A Quận 14-TP. HCM",
+	"Mail": "lnkhuê@hcmcom",
+	"Ten_Dang_nhap": "NV_41",
+	"Mat_khau": "NV_41",
+	"Muc_luong": 6300000,
+	"Ngay_sinh": "1980-10-25T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

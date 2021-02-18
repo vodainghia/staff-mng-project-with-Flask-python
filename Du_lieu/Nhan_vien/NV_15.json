@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Triệu lý Ngoạn",
+	"Ma_so": "NV_15",
+	"CMND": "026897227",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0912276729",
+	"Dia_chi": "Lâm quỳnh A Quận 8-TP. HCM",
+	"Mail": "tlngoạn@hcmvn",
+	"Ten_Dang_nhap": "NV_15",
+	"Mat_khau": "NV_15",
+	"Muc_luong": 4200000,
+	"Ngay_sinh": "1992-12-18T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

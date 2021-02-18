@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Kiều thiện Bắc",
+	"Ma_so": "NV_36",
+	"CMND": "062283695",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0986422848",
+	"Dia_chi": "Phạm văn N Quận 5-TP. HCM",
+	"Mail": "ktbắc@csccom",
+	"Ten_Dang_nhap": "NV_36",
+	"Mat_khau": "NV_36",
+	"Muc_luong": 13650000,
+	"Ngay_sinh": "1985-04-21T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

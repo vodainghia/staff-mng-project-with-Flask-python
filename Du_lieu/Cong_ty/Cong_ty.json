@@ -1,0 +1,84 @@
+{
+	"Ma_so": "CT_1",
+	"Ten": "Công ty X",
+	"Dien_thoai": "028-123456",
+	"Dia_chi": "123",
+	"Qui_dinh_Nhan_vien": {
+		"Ma_so": "QD_1",
+		"Tuoi_Toi_thieu": 18,
+		"Tuoi_Toi_da": 55,
+		"Muc_luong_Toi_thieu": 5500000
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ma_so": "ANH",
+			"Ten": "Anh"
+		},
+		{
+			"Ma_so": "PHAP",
+			"Ten": "Pháp"
+		},
+		{
+			"Ma_so": "NGA",
+			"Ten": "Nga"
+		},
+		{
+			"Ma_so": "DUC",
+			"Ten": "Đức"
+		},
+		{
+			"Ma_so": "Y",
+			"Ten": "Ý"
+		}
+	],
+	"Danh_sach_Don_vi": [
+		{
+			"Ma_so": "DV_1",
+			"Ten": "Dịch thuật",
+			"Chi_nhanh": {
+				"Ma_so": "CN_1",
+				"Ten": "Chi nhánh A"
+			}
+		},
+		{
+			"Ma_so": "DV_2",
+			"Ten": "Đa năng A",
+			"Chi_nhanh": {
+				"Ma_so": "CN_1",
+				"Ten": "Chi nhánh A"
+			}
+		},
+		{
+			"Ma_so": "DV_3",
+			"Ten": "Tư vấn du học 1",
+			"Chi_nhanh": {
+				"Ma_so": "CN_2",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_4",
+			"Ten": "Tư vấn du học 2",
+			"Chi_nhanh": {
+				"Ma_so": "CN_2",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_5",
+			"Ten": "Visa",
+			"Chi_nhanh": {
+				"Ma_so": "CN_2",
+				"Ten": "Chi nhánh B"
+			}
+		},
+		{
+			"Ma_so": "DV_6",
+			"Ten": "Đa năng B",
+			"Chi_nhanh": {
+				"Ma_so": "CN_2",
+				"Ten": "Chi nhánh B"
+			}
+		}
+	]
+}

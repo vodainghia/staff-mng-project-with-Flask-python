@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Hoàng thiện Đại",
+	"Ma_so": "NV_48",
+	"CMND": "020962056",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0906793294",
+	"Dia_chi": "Ngô bích C Quận 9-Long an",
+	"Mail": "htđại@euhhcmvn",
+	"Ten_Dang_nhap": "NV_48",
+	"Mat_khau": "NV_48",
+	"Muc_luong": 3500000,
+	"Ngay_sinh": "1980-01-16T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

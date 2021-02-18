@@ -1,0 +1,35 @@
+{
+    "Ho_ten": "B\u1ea1ch v\u0103n Huy",
+    "Ma_so": "NV_11",
+    "CMND": "072352541",
+    "Gioi_tinh": "N\u1eef",
+    "Dien_thoai": "09292715129",
+    "Dia_chi": "V\u00f5 l\u00e2m Kyu Qu\u1eadn 9-TP. HCM",
+    "Mail": "bvhuy@spthcmcom",
+    "Ten_Dang_nhap": "NV_11",
+    "Mat_khau": "NV_11",
+    "Muc_luong": 5250000,
+    "Ngay_sinh": "1980-11-07T17:00:00Z",
+    "Don_vi": {
+        "Ma_so": "DV_1",
+        "Ten": "D\u1ecbch thu\u1eadt",
+        "Chi_nhanh": {
+            "Ma_so": "CN_1",
+            "Ten": "Chi nh\u00e1nh A"
+        }
+    },
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "DUC",
+            "Ten": "\u0110\u1ee9c"
+        },
+        {
+            "Ma_so": "ANH",
+            "Ten": "Anh"
+        },
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Ph\u00e1p"
+        }
+    ]
+}

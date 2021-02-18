@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Lê tắc nguyên Tấn",
+	"Ma_so": "NV_29",
+	"CMND": "027411764",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0975641566",
+	"Dia_chi": "Ôn đắc V Quận 10-Cần Thơ",
+	"Mail": "ltntấn@alphtkgmailvn",
+	"Ten_Dang_nhap": "NV_29",
+	"Mat_khau": "NV_29",
+	"Muc_luong": 6650000,
+	"Ngay_sinh": "1985-03-31T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

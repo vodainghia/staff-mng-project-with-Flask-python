@@ -1,0 +1,109 @@
+{
+    "CMND": "005246710",
+    "Cac_Don_xin_nghi": [
+        {
+            "Ly_do": "b\u1ec7nh",
+            "Ngay_Bat_dau": "2020-10-04",
+            "STT": 1,
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "\u0110\u1ed3ng \u00fd"
+            },
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "\u0110\u1ed3ng \u00fd"
+            }
+        },
+        {
+            "Ly_do": "sick leave",
+            "Ngay_Bat_dau": "2020-10-07",
+            "STT": 2,
+            "So_ngay": "5",
+            "Y_kien_cua_QLCN": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "Kh\u00f4ng \u0111\u1ed3ng \u00fd"
+            },
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "Kh\u00f4ng \u0111\u1ed3ng \u00fd"
+            }
+        },
+        {
+            "Ly_do": "wedding",
+            "Ngay_Bat_dau": "2020-10-27",
+            "STT": 3,
+            "So_ngay": "2",
+            "Y_kien_cua_QLCN": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "Kh\u00f4ng \u0111\u1ed3ng \u00fd"
+            },
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "Kh\u00f4ng \u0111\u1ed3ng \u00fd"
+            }
+        },
+        {
+            "Ly_do": "choi",
+            "Ngay_Bat_dau": "2020-10-29",
+            "STT": 4,
+            "So_ngay": "1",
+            "Y_kien_cua_QLCN": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "\u0110\u1ed3ng \u00fd"
+            },
+            "Y_kien_cua_QLDV": {
+                "Ngay": "2020-10-04",
+                "Noi_dung": "\u0110\u1ed3ng \u00fd"
+            }
+        },
+        {
+            "Ly_do": "sick leave",
+            "Ngay_Bat_dau": "2020-11-24",
+            "STT": 5,
+            "So_ngay": "3",
+            "Y_kien_cua_QLCN": {},
+            "Y_kien_cua_QLDV": {}
+        },
+        {
+            "STT": 6,
+            "Ngay_Bat_dau": "2020-12-24",
+            "So_ngay": "1",
+            "Ly_do": "leave",
+            "Y_kien_cua_QLDV": {},
+            "Y_kien_cua_QLCN": {}
+        }
+    ],
+    "Danh_sach_Ngoai_ngu": [
+        {
+            "Ma_so": "PHAP",
+            "Ten": "Ph\u00e1p"
+        },
+        {
+            "Ma_so": "DUC",
+            "Ten": "\u0110\u1ee9c"
+        },
+        {
+            "Ma_so": "Y",
+            "Ten": "\u00dd"
+        }
+    ],
+    "Dia_chi": "\u0110inh th\u1ebf Em Qu\u1eadn 6-TP. HCM",
+    "Dien_thoai": "09196316669",
+    "Don_vi": {
+        "Chi_nhanh": {
+            "Ma_so": "CN_1",
+            "Ten": "Chi nh\u00e1nh A"
+        },
+        "Ma_so": "DV_1",
+        "Ten": "D\u1ecbch thu\u1eadt"
+    },
+    "Gioi_tinh": "Nam",
+    "Ho_ten": "Th\u00e1i th\u1ebf hi\u1ec1n Th\u1ee5c",
+    "Ma_so": "NV_2",
+    "Mail": "tthth\u1ee5c@euhyahoocom",
+    "Mat_khau": "NV_2",
+    "Muc_luong": 10850000,
+    "Ngay_sinh": "1970-12-24T17:00:00Z",
+    "Ten_Dang_nhap": "NV_2"
+}

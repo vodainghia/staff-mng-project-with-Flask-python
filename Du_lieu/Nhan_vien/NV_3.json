@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Hoa ngọc thục Phán",
+	"Ma_so": "NV_3",
+	"CMND": "006290174",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0972556386",
+	"Dia_chi": "Phùng thanh S Quận 13-Vĩnh Long",
+	"Mail": "hntphán@mdagmailvn",
+	"Ten_Dang_nhap": "NV_3",
+	"Mat_khau": "NV_3",
+	"Muc_luong": 9450000,
+	"Ngay_sinh": "1992-07-06T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

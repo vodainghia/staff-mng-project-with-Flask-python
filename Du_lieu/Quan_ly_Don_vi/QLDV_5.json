@@ -1,0 +1,14 @@
+{
+	"Ho_ten": "Lê thị Bích",
+	"Ma_so": "QLDV_5",
+	"Ten_Dang_nhap": "QLDV_5",
+  "Mat_khau": "QLDV_5",
+  "Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	}
+}

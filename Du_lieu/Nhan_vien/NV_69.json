@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Phùng phước kim Hồng",
+	"Ma_so": "NV_69",
+	"CMND": "099561540",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0969154118",
+	"Dia_chi": "Trần thanh E Quận 14-Tiền giang",
+	"Mail": "ppkhồng@cscgmailcom",
+	"Ten_Dang_nhap": "NV_69",
+	"Mat_khau": "NV_69",
+	"Muc_luong": 10850000,
+	"Ngay_sinh": "1980-06-22T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

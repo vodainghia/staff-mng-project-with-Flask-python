@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Nguyễn văn Tân",
+	"Ma_so": "NV_31",
+	"CMND": "040165373",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0993911495",
+	"Dia_chi": "Trần bùi D Quận 3-Long an",
+	"Mail": "nvtân@mdahcmcom",
+	"Ten_Dang_nhap": "NV_31",
+	"Mat_khau": "NV_31",
+	"Muc_luong": 11200000,
+	"Ngay_sinh": "1974-02-17T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

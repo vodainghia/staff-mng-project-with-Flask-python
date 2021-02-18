@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Nguyễn bích phúc Khiêm",
+	"Ma_so": "NV_51",
+	"CMND": "000577048",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0918469226",
+	"Dia_chi": "Ngô lâm E Quận 12-TP. HCM",
+	"Mail": "nbpkhiêm@mdahcmcom",
+	"Ten_Dang_nhap": "NV_51",
+	"Mat_khau": "NV_51",
+	"Muc_luong": 12950000,
+	"Ngay_sinh": "1994-06-03T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

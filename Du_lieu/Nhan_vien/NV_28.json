@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Tô thanh Bích",
+	"Ma_so": "NV_28",
+	"CMND": "041548844",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0955134349",
+	"Dia_chi": "Bạch bích J Quận 6-TP. HCM",
+	"Mail": "ttbích@cscyahoovn",
+	"Ten_Dang_nhap": "NV_28",
+	"Mat_khau": "NV_28",
+	"Muc_luong": 4200000,
+	"Ngay_sinh": "1993-03-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

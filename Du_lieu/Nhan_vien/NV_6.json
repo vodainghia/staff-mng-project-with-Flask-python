@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Kiều phạm Vàng",
+	"Ma_so": "NV_6",
+	"CMND": "063515767",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0974495570",
+	"Dia_chi": "Nguyễn thành N Quận 6-TP. HCM",
+	"Mail": "kpvàng@alphtkcom",
+	"Ten_Dang_nhap": "NV_6",
+	"Mat_khau": "NV_6",
+	"Muc_luong": 13300000,
+	"Ngay_sinh": "1982-03-29T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

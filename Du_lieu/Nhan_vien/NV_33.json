@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Bành đình Kiếm",
+	"Ma_so": "NV_33",
+	"CMND": "081981512",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0996706351",
+	"Dia_chi": "Tô thanh D Quận 12-Tiền giang",
+	"Mail": "bđkiếm@euhhcmvn",
+	"Ten_Dang_nhap": "NV_33",
+	"Mat_khau": "NV_33",
+	"Muc_luong": 8750000,
+	"Ngay_sinh": "1975-03-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng A",
+		"Ma_so": "DV_2",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

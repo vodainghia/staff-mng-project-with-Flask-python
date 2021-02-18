@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyễn tắc kiên Long",
+	"Ma_so": "NV_16",
+	"CMND": "048053093",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0967332223",
+	"Dia_chi": "Triệu thị F Quận 8-TP. HCM",
+	"Mail": "ntklong@gmailvn",
+	"Ten_Dang_nhap": "NV_16",
+	"Mat_khau": "NV_16",
+	"Muc_luong": 6300000,
+	"Ngay_sinh": "1983-12-13T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

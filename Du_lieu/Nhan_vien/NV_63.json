@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lý thành Sơn",
+	"Ma_so": "NV_63",
+	"CMND": "054338041",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0999981753",
+	"Dia_chi": "Trần cao B Quận 13-TP. HCM",
+	"Mail": "ltsơn@euhgmailcom",
+	"Ten_Dang_nhap": "NV_63",
+	"Mat_khau": "NV_63",
+	"Muc_luong": 12250000,
+	"Ngay_sinh": "1993-08-07T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 2",
+		"Ma_so": "DV_4",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

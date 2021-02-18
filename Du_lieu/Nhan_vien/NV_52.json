@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Nguyễn lâm Tạo",
+	"Ma_so": "NV_52",
+	"CMND": "014839708",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0994458292",
+	"Dia_chi": "Lý kiến R Quận 5-TP. HCM",
+	"Mail": "nltạo@sptvn",
+	"Ten_Dang_nhap": "NV_52",
+	"Mat_khau": "NV_52",
+	"Muc_luong": 9100000,
+	"Ngay_sinh": "1989-03-13T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Tư vấn du học 1",
+		"Ma_so": "DV_3",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

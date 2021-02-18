@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Trần đình Lý",
+	"Ma_so": "NV_13",
+	"CMND": "033651201",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0971894553",
+	"Dia_chi": "Cao phạm T Quận 8-TP. HCM",
+	"Mail": "tđlý@cschcmcom",
+	"Ten_Dang_nhap": "NV_13",
+	"Mat_khau": "NV_13",
+	"Muc_luong": 13300000,
+	"Ngay_sinh": "1980-02-28T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}
