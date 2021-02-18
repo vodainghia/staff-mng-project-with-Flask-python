@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Hứa thị Hồng",
+	"Ma_so": "NV_111",
+	"CMND": "009838357",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0955605612",
+	"Dia_chi": "Bạch kỳ P Quận 10-TP. HCM",
+	"Mail": "hthồng@mrnyahoovn",
+	"Ten_Dang_nhap": "NV_111",
+	"Mat_khau": "NV_111",
+	"Muc_luong": 5950000,
+	"Ngay_sinh": "1982-08-25T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

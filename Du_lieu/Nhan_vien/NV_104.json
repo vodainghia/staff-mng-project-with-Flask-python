@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nhữ đình Viễn",
+	"Ma_so": "NV_104",
+	"CMND": "025989508",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0906483003",
+	"Dia_chi": "Huỳnh cao O Quận 7-TP. HCM",
+	"Mail": "nđviễn@mdahcmvn",
+	"Ten_Dang_nhap": "NV_104",
+	"Mat_khau": "NV_104",
+	"Muc_luong": 11900000,
+	"Ngay_sinh": "1977-12-13T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

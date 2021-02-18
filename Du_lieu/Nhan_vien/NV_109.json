@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyễn thị Tạo",
+	"Ma_so": "NV_109",
+	"CMND": "066935536",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0929321867",
+	"Dia_chi": "Bạch thành R Quận 13-TP. HCM",
+	"Mail": "nttạo@cscvn",
+	"Ten_Dang_nhap": "NV_109",
+	"Mat_khau": "NV_109",
+	"Muc_luong": 9100000,
+	"Ngay_sinh": "1987-12-21T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

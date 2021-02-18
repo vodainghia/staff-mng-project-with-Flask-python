@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Tô hồng sơn Tài",
+	"Ma_so": "NV_97",
+	"CMND": "057761014",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0992603924",
+	"Dia_chi": "Triệu tắc A Quận 5-TP. HCM",
+	"Mail": "thstài@mdavn",
+	"Ten_Dang_nhap": "NV_97",
+	"Mat_khau": "NV_97",
+	"Muc_luong": 3850000,
+	"Ngay_sinh": "1973-05-12T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

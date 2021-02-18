@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Nhữ văn Nguyên",
+	"Ma_so": "NV_106",
+	"CMND": "008739695",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0924357744",
+	"Dia_chi": "Lâm đình K Quận 13-Đà nẳng",
+	"Mail": "nvnguyên@mdavn",
+	"Ten_Dang_nhap": "NV_106",
+	"Mat_khau": "NV_106",
+	"Muc_luong": 7000000,
+	"Ngay_sinh": "1986-06-16T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

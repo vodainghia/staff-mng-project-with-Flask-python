@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Ngô văn nguyên Tấn",
+	"Ma_so": "NV_90",
+	"CMND": "090727064",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0912082342",
+	"Dia_chi": "Nguyễn xuân C Quận 4-TP. HCM",
+	"Mail": "nvntấn@mdagmailcom",
+	"Ten_Dang_nhap": "NV_90",
+	"Mat_khau": "NV_90",
+	"Muc_luong": 7700000,
+	"Ngay_sinh": "1974-10-22T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}

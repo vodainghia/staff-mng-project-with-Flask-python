@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Liên tiến Nguyên",
+	"Ma_so": "NV_86",
+	"CMND": "043927343",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0967494927",
+	"Dia_chi": "Hứa tiến A Quận 3-TP. HCM",
+	"Mail": "ltnguyên@spthnvn",
+	"Ten_Dang_nhap": "NV_86",
+	"Mat_khau": "NV_86",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1993-05-03T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Công bích nguyên Tấn",
+	"Ma_so": "NV_76",
+	"CMND": "088705878",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0986966907",
+	"Dia_chi": "Nguyễn lý S Quận 6-Long an",
+	"Mail": "cbntấn@spthcmcom",
+	"Ten_Dang_nhap": "NV_76",
+	"Mat_khau": "NV_76",
+	"Muc_luong": 4200000,
+	"Ngay_sinh": "1989-03-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Triệu tiến kiên Trường",
+	"Ma_so": "NV_95",
+	"CMND": "024913203",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0987751057",
+	"Dia_chi": "Hứa văn S Quận 11-Cần Thơ",
+	"Mail": "ttktrường@mrncom",
+	"Ten_Dang_nhap": "NV_95",
+	"Mat_khau": "NV_95",
+	"Muc_luong": 5250000,
+	"Ngay_sinh": "1993-03-17T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

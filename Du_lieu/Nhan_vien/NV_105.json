@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nhữ chiến Dung",
+	"Ma_so": "NV_105",
+	"CMND": "095394823",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0994728020",
+	"Dia_chi": "Trầm sơn J Quận 3-Đà nẳng",
+	"Mail": "ncdung@euhvn",
+	"Ten_Dang_nhap": "NV_105",
+	"Mat_khau": "NV_105",
+	"Muc_luong": 9450000,
+	"Ngay_sinh": "1972-07-18T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

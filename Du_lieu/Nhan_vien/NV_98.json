@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Công an thụy Lan",
+	"Ma_so": "NV_98",
+	"CMND": "063630855",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0950821171",
+	"Dia_chi": "Mai phước U Quận 9-TP. HCM",
+	"Mail": "catlan@alphtkyahoovn",
+	"Ten_Dang_nhap": "NV_98",
+	"Mat_khau": "NV_98",
+	"Muc_luong": 14000000,
+	"Ngay_sinh": "1972-01-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

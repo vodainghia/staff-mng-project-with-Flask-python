@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Nguyễn văn tuấn Tài",
+	"Ma_so": "NV_107",
+	"CMND": "041682621",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0963211786",
+	"Dia_chi": "Trần đình R Quận 3-TP. HCM",
+	"Mail": "nvttài@mrnhcmcom",
+	"Ten_Dang_nhap": "NV_107",
+	"Mat_khau": "NV_107",
+	"Muc_luong": 14000000,
+	"Ngay_sinh": "1994-11-01T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Lâm triệu Sơn",
+	"Ma_so": "NV_112",
+	"CMND": "005130024",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0975765003",
+	"Dia_chi": "Mai tiến S Quận 12-TP. HCM",
+	"Mail": "ltsơn@sptyahoovn",
+	"Ten_Dang_nhap": "NV_112",
+	"Mat_khau": "NV_112",
+	"Muc_luong": 7000000,
+	"Ngay_sinh": "1989-09-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		}
+	]
+}

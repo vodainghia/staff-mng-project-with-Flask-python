@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Châu quyết trang Đài",
+	"Ma_so": "NV_94",
+	"CMND": "091453937",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0927363961",
+	"Dia_chi": "Nguyên sơn A Quận 3-TP. HCM",
+	"Mail": "cqtđài@cschnvn",
+	"Ten_Dang_nhap": "NV_94",
+	"Mat_khau": "NV_94",
+	"Muc_luong": 11900000,
+	"Ngay_sinh": "1985-12-05T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyễn thị nguyên Tấn",
+	"Ma_so": "NV_77",
+	"CMND": "046565577",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0983179055",
+	"Dia_chi": "Hồ an F Quận 9-TP. HCM",
+	"Mail": "ntntấn@euhhcmvn",
+	"Ten_Dang_nhap": "NV_77",
+	"Mat_khau": "NV_77",
+	"Muc_luong": 4550000,
+	"Ngay_sinh": "1980-01-30T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

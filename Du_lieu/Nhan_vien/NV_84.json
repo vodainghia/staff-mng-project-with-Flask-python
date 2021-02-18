@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Võ lê thùy Trang",
+	"Ma_so": "NV_84",
+	"CMND": "029262056",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0920098642",
+	"Dia_chi": "Phạm an W Quận 1-TP. HCM",
+	"Mail": "vlttrang@mrngmailvn",
+	"Ten_Dang_nhap": "NV_84",
+	"Mat_khau": "NV_84",
+	"Muc_luong": 5250000,
+	"Ngay_sinh": "1977-08-10T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

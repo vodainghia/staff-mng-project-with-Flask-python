@@ -1,0 +1,39 @@
+{
+	"Ho_ten": "Nguyễn thanh Giang",
+	"Ma_so": "NV_108",
+	"CMND": "069799020",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0908421428",
+	"Dia_chi": "Lý gia P Quận 3-TP. HCM",
+	"Mail": "ntgiang@mrnhcmvn",
+	"Ten_Dang_nhap": "NV_108",
+	"Mat_khau": "NV_108",
+	"Muc_luong": 7350000,
+	"Ngay_sinh": "1974-10-04T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

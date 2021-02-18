@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyên hùng minh Châu",
+	"Ma_so": "NV_83",
+	"CMND": "000525666",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0983611991",
+	"Dia_chi": "Nguyễn phước Y Quận 8-TP. HCM",
+	"Mail": "nhmchâu@hcmvn",
+	"Ten_Dang_nhap": "NV_83",
+	"Mat_khau": "NV_83",
+	"Muc_luong": 5600000,
+	"Ngay_sinh": "1982-04-02T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

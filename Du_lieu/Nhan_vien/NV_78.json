@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Thái bích chiến Thắng",
+	"Ma_so": "NV_78",
+	"CMND": "014745684",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0911310228",
+	"Dia_chi": "Huỳnh thanh E Quận 12-TP. HCM",
+	"Mail": "tbcthắng@euhgmailvn",
+	"Ten_Dang_nhap": "NV_78",
+	"Mat_khau": "NV_78",
+	"Muc_luong": 6650000,
+	"Ngay_sinh": "1985-08-05T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

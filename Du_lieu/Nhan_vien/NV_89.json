@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Nguyễn kỳ Phước",
+	"Ma_so": "NV_89",
+	"CMND": "007081710",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0977134983",
+	"Dia_chi": "Lâm sơn K Quận 6-Tiền giang",
+	"Mail": "nkphước@mdagmailvn",
+	"Ten_Dang_nhap": "NV_89",
+	"Mat_khau": "NV_89",
+	"Muc_luong": 3850000,
+	"Ngay_sinh": "1989-01-18T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		}
+	]
+}

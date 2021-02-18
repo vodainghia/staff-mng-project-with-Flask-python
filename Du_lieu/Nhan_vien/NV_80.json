@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lý tiến Tế",
+	"Ma_so": "NV_80",
+	"CMND": "060595982",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0921910269",
+	"Dia_chi": "Võ như K Quận 12-TP. HCM",
+	"Mail": "lttế@cscyahoocom",
+	"Ten_Dang_nhap": "NV_80",
+	"Mat_khau": "NV_80",
+	"Muc_luong": 8050000,
+	"Ngay_sinh": "1980-03-13T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

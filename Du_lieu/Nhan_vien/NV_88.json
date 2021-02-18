@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phạm hồng Nguyệt",
+	"Ma_so": "NV_88",
+	"CMND": "032026572",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0920163429",
+	"Dia_chi": "Chu ngọc K Quận 3-TP. HCM",
+	"Mail": "phnguyệt@euhhnvn",
+	"Ten_Dang_nhap": "NV_88",
+	"Mat_khau": "NV_88",
+	"Muc_luong": 9100000,
+	"Ngay_sinh": "1977-06-27T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

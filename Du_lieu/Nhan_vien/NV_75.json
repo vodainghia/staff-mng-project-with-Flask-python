@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lý quỳnh xuân Trường",
+	"Ma_so": "NV_75",
+	"CMND": "047408466",
+	"Gioi_tinh": "Khác",
+	"Dien_thoai": "0953656832",
+	"Dia_chi": "Hồ tiến Y Quận 2-TP. HCM",
+	"Mail": "lqxtrường@euhgmailvn",
+	"Ten_Dang_nhap": "NV_75",
+	"Mat_khau": "NV_75",
+	"Muc_luong": 9100000,
+	"Ngay_sinh": "1984-04-05T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

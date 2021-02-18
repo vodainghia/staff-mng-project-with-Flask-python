@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Lâm hữu hải Sơn",
+	"Ma_so": "NV_79",
+	"CMND": "051021185",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0931860063",
+	"Dia_chi": "Trần thị Y Quận 5-TP. HCM",
+	"Mail": "lhhsơn@alphtkhncom",
+	"Ten_Dang_nhap": "NV_79",
+	"Mat_khau": "NV_79",
+	"Muc_luong": 9100000,
+	"Ngay_sinh": "1987-12-11T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

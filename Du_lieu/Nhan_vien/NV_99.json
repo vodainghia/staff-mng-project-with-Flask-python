@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Phạm văn Nguyên",
+	"Ma_so": "NV_99",
+	"CMND": "053646838",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0965395469",
+	"Dia_chi": "Phạm phước G Quận 4-TP. HCM",
+	"Mail": "pvnguyên@mdayahoovn",
+	"Ten_Dang_nhap": "NV_99",
+	"Mat_khau": "NV_99",
+	"Muc_luong": 5950000,
+	"Ngay_sinh": "1980-11-23T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Nga",
+			"Ma_so": "NGA"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}

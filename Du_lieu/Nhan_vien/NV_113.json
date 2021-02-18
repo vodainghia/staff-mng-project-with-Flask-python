@@ -1,0 +1,31 @@
+{
+	"Ho_ten": "Trường ngọc thảo Nguyên",
+	"Ma_so": "NV_113",
+	"CMND": "042898152",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0931592246",
+	"Dia_chi": "Lý kiến H Quận 3-TP. HCM",
+	"Mail": "tntnguyên@mdahcmcom",
+	"Ten_Dang_nhap": "NV_113",
+	"Mat_khau": "NV_113",
+	"Muc_luong": 5950000,
+	"Ngay_sinh": "1989-06-29T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Đa năng B",
+		"Ma_so": "DV_6",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

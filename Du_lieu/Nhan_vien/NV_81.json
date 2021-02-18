@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Bạch an Tươi",
+	"Ma_so": "NV_81",
+	"CMND": "056864891",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0957236284",
+	"Dia_chi": "Nhữ lý N Quận 1-TP. HCM",
+	"Mail": "batươi@euhgmailcom",
+	"Ten_Dang_nhap": "NV_81",
+	"Mat_khau": "NV_81",
+	"Muc_luong": 8750000,
+	"Ngay_sinh": "1973-11-03T17:00:00Z",
+	"Don_vi": {
+		"Ten": "Visa",
+		"Ma_so": "DV_5",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh B",
+			"Ma_so": "CN_2"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}
